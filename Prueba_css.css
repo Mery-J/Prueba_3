@@ -1,0 +1,17 @@
+body{
+    font-family: Lato, Georgia, "Times New Roman",
+    Times, serif;
+}
+
+.ct {
+    border: solid 1px black;
+    margin-top: 2rem;
+}
+
+.rojo {
+    color: red;
+}
+
+div{
+    padding: 1%;
+}
